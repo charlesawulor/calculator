@@ -1,0 +1,41 @@
+body{
+	background-color:blue;
+	text-align:center;
+	font-size:250%;
+	color:Yellow;
+}
+
+#container{
+width:25%;
+height:35%;
+text-align:center;
+background-color:#ffd9cc;
+margin:auto;
+margin-top:1%;
+padding-top:30px;
+padding-bottom:30px;
+border-radius:20px 0 20px 0;
+color:black;
+
+}
+
+
+input[type=text]{
+width:90%;
+padding:10px 15px;
+margin:15px 0;
+box-sizing: border-box;
+border: 2px solid red;
+border-radius: 4px;
+}
+
+
+input[type=submit]{
+width:90%;
+padding:10px 15px;
+margin:15px 0;
+box-sizing: border-box;
+border: 2px solid red;
+border-radius: 4px;
+background-color:pink;
+}

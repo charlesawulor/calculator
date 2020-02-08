@@ -1,0 +1,69 @@
+body{
+background-color:grey;
+color:red;
+text-align:center;
+font-size:200%;	
+}
+
+#head{
+width:100%;
+height:50px;
+background-color:#ff1ac6;	
+text-align:center;
+font-size:120%;
+color:yellow;
+padding-top:10px;
+}
+
+#container{
+width:45%;
+height:70%;
+text-align:center;
+background-color:#ffd9cc;
+margin:auto;
+margin-top:1%;
+padding-top:30px;
+padding-bottom:30px;
+border-radius:20px 0 20px 0;	
+}
+
+
+#operator{
+width:50%;
+height:200px;
+background-color:red;
+margin-top:20px;
+margin:auto;
+padding:15px;
+font-size:150%;	
+	
+}
+
+
+input[type=text]{
+width:90%;
+padding:10px 15px;
+margin:15px 0;
+box-sizing: border-box;
+border: 2px solid red;
+border-radius: 4px;
+}
+
+input[type=radio]{
+width:10%;
+padding:15px 15px;
+margin:2px 0;
+box-sizing: border-box;
+background-color:pink;
+}
+
+input[type=submit]{
+width:90%;
+padding:10px 15px;
+margin:15px 0;
+box-sizing: border-box;
+border: 2px solid red;
+border-radius: 4px;
+background-color:pink;
+}
+
